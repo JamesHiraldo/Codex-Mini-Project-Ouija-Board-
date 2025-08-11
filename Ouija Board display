@@ -1,5 +1,7 @@
 #include <iostream>
 
+// First project: Ouija Board display
+
 int main() {
   std::cout <<"----------------------------- \n";
   std::cout << "|       x YES     NO x      |\n";
